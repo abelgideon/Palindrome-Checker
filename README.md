@@ -27,7 +27,8 @@ This is a simple Palindrome Checker application created as part of a freeCodeCam
 ### Usage
 
 1. Open the `index.html` file in your preferred web browser to view the Palindrome Checker application.
-2. Enter a word or sentence in the input field and click the "Check" button to see if it's a palindrome.
+2. Alternatively, you can access the live site [here](https://abelgideon.github.io/Palindrome-Checker/).
+3. Enter a word or sentence in the input field and click the "Check" button to see if it's a palindrome.
 
 ### File Structure
 
